@@ -1,0 +1,1 @@
+<li <?php if ($_SERVER['REQUEST_URI'] == '/account/blipfoto/') echo 'class="active"'; ?>><a href="/account/blipfoto/">Blipfoto</a></li>
